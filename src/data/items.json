@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "name": "Breast cancer Awareness",
+      "price": 15.00,
+      "imgUrl": "/imgs/bca.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Herstory",
+      "price": 25.00,
+      "imgUrl": "/imgs/herstory.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Black Kings",
+      "price": 37.90,
+      "imgUrl": "/imgs/blackkings.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Blessing",
+      "price": 17.00,
+      "imgUrl": "/imgs/blessing.jpg"
+    }
+  ]
